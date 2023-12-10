@@ -29,4 +29,4 @@ Todo el mundo está invitado a colaborar con el proyecto identificado problemas 
 | es_VE | Venezuela |
 | es |  general iberoamericano |
 
-Consulte el detalle de [cómo colaborar](https://github.com/sbosio/rla-es/wiki/C%C3%B3mo-colaborar-con-RLA-ES-y-con-el-corrector-ortogr%C3%A1fico) en el wiki del proyecto.
+Consulta el detalle de [cómo colaborar](https://github.com/sbosio/rla-es/wiki/C%C3%B3mo-colaborar-con-RLA-ES-y-con-el-corrector-ortogr%C3%A1fico) en la wiki del proyecto.
