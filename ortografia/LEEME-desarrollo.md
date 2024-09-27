@@ -1,5 +1,5 @@
 
-La información técnica de desarrollo del proyecto está disponible en nuestro wiki:
+La información técnica de desarrollo del proyecto está disponible en nuestra wiki:
 
 - [Cómo colaborar con RLA ES y con el corrector ortográfico](https://github.com/sbosio/rla-es/wiki/C%C3%B3mo-colaborar-con-RLA-ES-y-con-el-corrector-ortogr%C3%A1fico)
 - [Estructura de archivos en el proyecto RLA ES](https://github.com/sbosio/rla-es/wiki/Estructura-de-archivos-en-el-proyecto-RLA-ES)

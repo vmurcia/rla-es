@@ -1,12 +1,12 @@
 # Recursos Lingüísticos Abiertos del Español
 
-_Recursos Lingüísticos Abiertos del Español_ es un proyecto colaborativo para el desarrollo de herramientas de asistencia a la escritura (corrector ortográfico, tesauro, y en un futuro corrector gramatical) para la lengua española en todas sus variantes regionales.
+_Recursos Lingüísticos Abiertos del Español_ es un proyecto colaborativo para el desarrollo de herramientas de asistencia a la escritura (corrector ortográfico, tesauro y, en un futuro, corrector gramatical) para la lengua española en todas sus variantes regionales.
 
 Desde el proyecto se compilan regularmente los diccionarios para corrección ortográfica utilizados por aplicaciones de gran difusión como LibreOffice, Apache OpenOffice y Mozilla Firefox, entre otras.
 
 ## Ámbito del proyecto
 
-De todas las especificaciones de variantes regionales del español recogidas en el  [Unicode Common Locale Data Repository (CLDR)](http://cldr.unicode.org/) el proyecto contempla todas las principales:
+De todas las especificaciones de variantes regionales del español recogidas en el  [Unicode Common Locale Data Repository (CLDR)](http://cldr.unicode.org/), el proyecto contempla todas las principales:
 
 | código | región  |
 |:----:|:---:|
@@ -35,7 +35,7 @@ De todas las especificaciones de variantes regionales del español recogidas en 
 | es_VE | Venezuela |
 | es |  general, español internacional |
 
-A pesar de nuestro esfuerzo el grado de cobertura de cada variante regional puede estar más o menos completa. Tu ayuda es importante.
+A pesar de nuestro esfuerzo, el grado de cobertura de cada variante regional puede estar más o menos completo. Tu ayuda es importante.
 
 ## Recursos principales
 
@@ -45,7 +45,7 @@ A pesar de nuestro esfuerzo el grado de cobertura de cada variante regional pued
 
 ## Instalación
 
-En nuestro wiki están disponibles las [instrucciones de instalación](https://github.com/sbosio/rla-es/wiki/C%C3%B3mo-instalar-el-diccionario-corrector-ortogr%C3%A1fico) del corrector ortográfico en los sistemas y aplicaciones más populares.
+En nuestra wiki están disponibles las [instrucciones de instalación](https://github.com/sbosio/rla-es/wiki/C%C3%B3mo-instalar-el-diccionario-corrector-ortogr%C3%A1fico) del corrector ortográfico en los sistemas y aplicaciones más populares.
 
 ## Colaboración
 
@@ -54,4 +54,4 @@ Puedes encontrar más información sobre cómo colaborar en nuestra [wiki](https
 
 ## Licencia
 
-Los recursos originales de RLA-ES están publicados como software libre en un sistema multilicencia. Consulte los detalles en [LICENSE.md](LICENSE.md).
+Los recursos originales de RLA-ES están publicados como _software_ libre en un sistema multilicencia. Consulta los detalles en [LICENSE.md](LICENSE.md).
